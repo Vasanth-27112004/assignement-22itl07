@@ -6,3 +6,5 @@ COMPOSE YML:
 ![image](https://github.com/user-attachments/assets/ddfe17f2-f96d-4be8-afae-075d8d116245)
 ML MODEL.PY:
 ![image](https://github.com/user-attachments/assets/371133f2-99e0-4026-8267-eff1277f2bd3)
+REQIREMENT TXT:
+![image](https://github.com/user-attachments/assets/dbcaee57-446c-4261-a172-6615b50770af)
